@@ -1,5 +1,8 @@
 # Changelog for GearUpAndGo
 
+2.2.5.0 - Removed a rouge dll in the assemblies folder
+
+
 2.2.4.0 - Updated to 1.3
 
 

@@ -22,6 +22,8 @@
   <ItemGroup>
     <Reference Include="BetterPawnControl">
       <HintPath>..\..\..\..\..\..\workshop\content\294100\1541460369\v1.3\Assemblies\BetterPawnControl.dll</HintPath>
+      <Private>false</Private>
     </Reference>
   </ItemGroup>
 </Project>
+

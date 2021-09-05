@@ -1,5 +1,8 @@
 # Changelog for GearUpAndGo
 
+2.2.6.0 - Last update, added end-of-life message
+
+
 2.2.5.0 - Removed a rouge dll in the assemblies folder
 
 

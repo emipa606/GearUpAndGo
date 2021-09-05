@@ -1,14 +1,14 @@
 # GearUpAndGo
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Uuuggggs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1316142788
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Adds a button to draft, swap gear, then go to the target location
 
@@ -71,7 +71,7 @@ Source on github: https://github.com/alextd/Rimworld-GearUpAndGo
 Ludeon Forum Thread: https://ludeon.com/forums/index.php?topic=39320.0
 People seem to like donating so why not: **https://ko-fi.com/alextd**
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
